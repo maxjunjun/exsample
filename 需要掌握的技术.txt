@@ -25,5 +25,7 @@ easyui UI
 
 activemq  jms
 
+SimpleHTTPServer
+
 http://cbs.local.com:8082/index.html
 http://127.0.0.1:8080/
